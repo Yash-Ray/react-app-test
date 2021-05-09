@@ -1,0 +1,15 @@
+.headdiv {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headingtxt {
+    padding: 1% 0% 0% 0%;
+    margin: 0%;
+    text-align: center;
+    color: #faa41a;
+    font-family: 'Aladin';
+    font-size: 72px;
+    font-weight: 100;
+}
